@@ -4,7 +4,7 @@
 
 事实上，世界各地的开发者们已经制作了数以万计的 GPTs，其中许多都非常实用。
 
-在根据自己的需要选择合适的 GPTs 之前，你需要确保自己能使用它们。可以查看[ChatGPT Plus升级教程](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)快速升级到 ChatGPT Plus。
+在根据自己的需要选择合适的 GPTs 之前，你需要确保自己能使用它们。可以查看[ChatGPT Plus升级教程](https://bit.ly/bewildcard)快速升级到 ChatGPT Plus。
 
 接下来，就结合网上的资料和自己的日常使用，为大家推荐最为实用的 GPTs。
 
